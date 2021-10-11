@@ -1,3 +1,5 @@
 # OSSP
+read me
 
-<git & github practice>
+git practice
+git push [remote name] [branch name]
