@@ -1,5 +1,4 @@
 # OSSP
-read me
-
-git practice
-git push [remote name] [branch name]
+read me!!!!
+0928 OSS practice
+git
